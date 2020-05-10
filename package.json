@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
-  "version": "3.8.2",
-  "description": "The official app for Moodle.",
+  "name": "affordableonlinetutoring",
+  "version": "1.0.1",
+  "description": "Affrodable online tutoring app.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Complete Web Solutions",
+    "email": "ken@completewebsolutions.co.za"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
